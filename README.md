@@ -40,4 +40,6 @@ The **Dividend Compare Tool** is a GUI-based application built using the `tkinte
 
 ### Feedback and Support
 For any feedback or support regarding the **Dividend Compare Tool**, please contact us at 'cr3992@gmail.com' with the subject 'Dividend Compare Tool Software'. We appreciate your feedback and suggestions for further improvement.
-![divmax](https://github.com/cr3992/Dividend-Compare-Tool/assets/76623223/ed1090d6-13b1-4b42-8793-0be659cb3db9)
+![divmax](https://github.com/cr3992/Dividend-Compare-Tool/assets/76623223/97febf62-95fd-46be-8fe8-8ed790bd0a39)
+
+
